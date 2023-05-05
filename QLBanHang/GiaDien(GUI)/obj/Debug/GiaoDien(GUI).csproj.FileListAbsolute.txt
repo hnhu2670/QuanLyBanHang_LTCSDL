@@ -1,0 +1,261 @@
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaoDien(GUI).csproj.AssemblyReference.cache
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaoDien(GUI).csproj.SuggestedBindingRedirects.cache
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.Properties.Resources.resources
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaoDien(GUI).csproj.GenerateResource.cache
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaoDien(GUI).csproj.CoreCompileInputs.cache
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QLBanHang\GiaDien(GUI)\bin\Debug\GiaDien(GUI).exe.config
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QLBanHang\GiaDien(GUI)\bin\Debug\GiaDien(GUI).exe
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QLBanHang\GiaDien(GUI)\bin\Debug\GiaDien(GUI).pdb
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QLBanHang\GiaDien(GUI)\bin\Debug\NghiepVu.dll
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QLBanHang\GiaDien(GUI)\bin\Debug\DuLieu(DAO).dll
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QLBanHang\GiaDien(GUI)\bin\Debug\NghiepVu.pdb
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QLBanHang\GiaDien(GUI)\bin\Debug\DuLieu(DAO).pdb
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QLBanHang\GiaDien(GUI)\bin\Debug\DuLieu(DAO).dll.config
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaoDien(GUI).csproj.CopyComplete
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien(GUI).exe
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien(GUI).pdb
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QLBanHang\GiaDien(GUI)\bin\Debug\DTO.dll
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QLBanHang\GiaDien(GUI)\bin\Debug\DTO.pdb
+C:\Users\Sy_Tuan\Desktop\QLBanHang\GiaDien(GUI)\bin\Debug\GiaDien(GUI).exe.config
+C:\Users\Sy_Tuan\Desktop\QLBanHang\GiaDien(GUI)\bin\Debug\GiaDien(GUI).exe
+C:\Users\Sy_Tuan\Desktop\QLBanHang\GiaDien(GUI)\bin\Debug\GiaDien(GUI).pdb
+C:\Users\Sy_Tuan\Desktop\QLBanHang\GiaDien(GUI)\bin\Debug\DTO.dll
+C:\Users\Sy_Tuan\Desktop\QLBanHang\GiaDien(GUI)\bin\Debug\NghiepVu.dll
+C:\Users\Sy_Tuan\Desktop\QLBanHang\GiaDien(GUI)\bin\Debug\DuLieu(DAO).dll
+C:\Users\Sy_Tuan\Desktop\QLBanHang\GiaDien(GUI)\bin\Debug\DTO.pdb
+C:\Users\Sy_Tuan\Desktop\QLBanHang\GiaDien(GUI)\bin\Debug\NghiepVu.pdb
+C:\Users\Sy_Tuan\Desktop\QLBanHang\GiaDien(GUI)\bin\Debug\DuLieu(DAO).pdb
+C:\Users\Sy_Tuan\Desktop\QLBanHang\GiaDien(GUI)\bin\Debug\DuLieu(DAO).dll.config
+C:\Users\Sy_Tuan\Desktop\QLBanHang\GiaDien(GUI)\obj\Debug\GiaoDien(GUI).csproj.AssemblyReference.cache
+C:\Users\Sy_Tuan\Desktop\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.DangNhap.resources
+C:\Users\Sy_Tuan\Desktop\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.Form_App.resources
+C:\Users\Sy_Tuan\Desktop\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.HoaDon.resources
+C:\Users\Sy_Tuan\Desktop\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.KhachHang.resources
+C:\Users\Sy_Tuan\Desktop\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.NhanVien.resources
+C:\Users\Sy_Tuan\Desktop\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.Properties.Resources.resources
+C:\Users\Sy_Tuan\Desktop\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.SanPham.resources
+C:\Users\Sy_Tuan\Desktop\QLBanHang\GiaDien(GUI)\obj\Debug\GiaoDien(GUI).csproj.GenerateResource.cache
+C:\Users\Sy_Tuan\Desktop\QLBanHang\GiaDien(GUI)\obj\Debug\GiaoDien(GUI).csproj.CoreCompileInputs.cache
+C:\Users\Sy_Tuan\Desktop\QLBanHang\GiaDien(GUI)\obj\Debug\GiaoDien(GUI).csproj.CopyComplete
+C:\Users\Sy_Tuan\Desktop\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien(GUI).exe
+C:\Users\Sy_Tuan\Desktop\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien(GUI).pdb
+C:\Users\User Dell 151120\Desktop\QLBanHang\GiaDien(GUI)\bin\Debug\GiaDien(GUI).exe.config
+C:\Users\User Dell 151120\Desktop\QLBanHang\GiaDien(GUI)\bin\Debug\GiaDien(GUI).exe
+C:\Users\User Dell 151120\Desktop\QLBanHang\GiaDien(GUI)\bin\Debug\GiaDien(GUI).pdb
+C:\Users\User Dell 151120\Desktop\QLBanHang\GiaDien(GUI)\bin\Debug\DTO.dll
+C:\Users\User Dell 151120\Desktop\QLBanHang\GiaDien(GUI)\bin\Debug\NghiepVu.dll
+C:\Users\User Dell 151120\Desktop\QLBanHang\GiaDien(GUI)\bin\Debug\DuLieu(DAO).dll
+C:\Users\User Dell 151120\Desktop\QLBanHang\GiaDien(GUI)\bin\Debug\DTO.pdb
+C:\Users\User Dell 151120\Desktop\QLBanHang\GiaDien(GUI)\bin\Debug\NghiepVu.pdb
+C:\Users\User Dell 151120\Desktop\QLBanHang\GiaDien(GUI)\bin\Debug\DuLieu(DAO).pdb
+C:\Users\User Dell 151120\Desktop\QLBanHang\GiaDien(GUI)\bin\Debug\DuLieu(DAO).dll.config
+C:\Users\User Dell 151120\Desktop\QLBanHang\GiaDien(GUI)\obj\Debug\GiaoDien(GUI).csproj.AssemblyReference.cache
+C:\Users\User Dell 151120\Desktop\QLBanHang\GiaDien(GUI)\obj\Debug\GiaoDien(GUI).csproj.SuggestedBindingRedirects.cache
+C:\Users\User Dell 151120\Desktop\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.DangNhap.resources
+C:\Users\User Dell 151120\Desktop\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.Form_App.resources
+C:\Users\User Dell 151120\Desktop\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.HoaDon.resources
+C:\Users\User Dell 151120\Desktop\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.KhachHang.resources
+C:\Users\User Dell 151120\Desktop\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.NhanVien.resources
+C:\Users\User Dell 151120\Desktop\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.Properties.Resources.resources
+C:\Users\User Dell 151120\Desktop\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.SanPham.resources
+C:\Users\User Dell 151120\Desktop\QLBanHang\GiaDien(GUI)\obj\Debug\GiaoDien(GUI).csproj.GenerateResource.cache
+C:\Users\User Dell 151120\Desktop\QLBanHang\GiaDien(GUI)\obj\Debug\GiaoDien(GUI).csproj.CoreCompileInputs.cache
+C:\Users\User Dell 151120\Desktop\QLBanHang\GiaDien(GUI)\obj\Debug\GiaoDien(GUI).csproj.CopyComplete
+C:\Users\User Dell 151120\Desktop\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien(GUI).exe
+C:\Users\User Dell 151120\Desktop\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien(GUI).pdb
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.fmChiTietHD.resources
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.fmDangNhap.resources
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.fmForm_App.resources
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.fmHDBanHang.resources
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.fmKhachHang.resources
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.fmNhanVien.resources
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.fmSanPham.resources
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.fmNhaCungCap.resources
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\bin\Debug\GiaDien(GUI).exe.config
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\bin\Debug\GiaDien(GUI).exe
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\bin\Debug\GiaDien(GUI).pdb
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\bin\Debug\DTO.dll
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\bin\Debug\NghiepVu.dll
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\bin\Debug\DuLieu(DAO).dll
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\bin\Debug\DTO.pdb
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\bin\Debug\NghiepVu.pdb
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\bin\Debug\DuLieu(DAO).pdb
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\bin\Debug\DuLieu(DAO).dll.config
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaoDien(GUI).csproj.AssemblyReference.cache
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaoDien(GUI).csproj.SuggestedBindingRedirects.cache
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.fmChiTietHD.resources
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.fmDangNhap.resources
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.fmForm_App.resources
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.fmHDBanHang.resources
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.fmKhachHang.resources
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.fmNhaCungCap.resources
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.fmNhanVien.resources
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.Properties.Resources.resources
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.fmSanPham.resources
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaoDien(GUI).csproj.GenerateResource.cache
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaoDien(GUI).csproj.CoreCompileInputs.cache
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaoDien(GUI).csproj.CopyComplete
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien(GUI).exe
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien(GUI).pdb
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\bin\Debug\GiaDien(GUI).exe.config
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\bin\Debug\GiaDien(GUI).exe
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\bin\Debug\GiaDien(GUI).pdb
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\bin\Debug\DTO.dll
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\bin\Debug\NghiepVu.dll
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\bin\Debug\DuLieu(DAO).dll
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\bin\Debug\DTO.pdb
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\bin\Debug\NghiepVu.pdb
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\bin\Debug\DuLieu(DAO).pdb
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\bin\Debug\DuLieu(DAO).dll.config
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaoDien(GUI).csproj.AssemblyReference.cache
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaoDien(GUI).csproj.SuggestedBindingRedirects.cache
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.fmChiTietHD.resources
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.fmDangNhap.resources
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.fmForm_App.resources
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.fmHDBanHang.resources
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.fmKhachHang.resources
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.fmNhaCungCap.resources
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.fmNhanVien.resources
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.Properties.Resources.resources
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.fmSanPham.resources
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaoDien(GUI).csproj.GenerateResource.cache
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaoDien(GUI).csproj.CoreCompileInputs.cache
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaoDien(GUI).csproj.CopyComplete
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien(GUI).exe
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien(GUI).pdb
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.fmKhuyenMai.resources
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\bin\Debug\GiaDien(GUI).exe.config
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\bin\Debug\GiaDien(GUI).exe
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\bin\Debug\GiaDien(GUI).pdb
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\bin\Debug\DTO.dll
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\bin\Debug\NghiepVu.dll
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\bin\Debug\DuLieu(DAO).dll
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\bin\Debug\DTO.pdb
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\bin\Debug\NghiepVu.pdb
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\bin\Debug\DuLieu(DAO).pdb
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\bin\Debug\DuLieu(DAO).dll.config
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaoDien(GUI).csproj.AssemblyReference.cache
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaoDien(GUI).csproj.SuggestedBindingRedirects.cache
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.fmChiTietHD.resources
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.fmDangNhap.resources
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.fmForm_App.resources
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.fmHDBanHang.resources
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.fmKhachHang.resources
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.fmKhuyenMai.resources
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.fmNhaCungCap.resources
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.fmNhanVien.resources
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.Properties.Resources.resources
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.fmSanPham.resources
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaoDien(GUI).csproj.GenerateResource.cache
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaoDien(GUI).csproj.CoreCompileInputs.cache
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaoDien(GUI).csproj.CopyComplete
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien(GUI).exe
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien(GUI).pdb
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\bin\Debug\GiaDien(GUI).exe.config
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\bin\Debug\GiaDien(GUI).exe
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\bin\Debug\GiaDien(GUI).pdb
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\bin\Debug\DTO.dll
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\bin\Debug\NghiepVu.dll
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\bin\Debug\DuLieu(DAO).dll
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\bin\Debug\DTO.pdb
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\bin\Debug\NghiepVu.pdb
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\bin\Debug\DuLieu(DAO).pdb
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\bin\Debug\DuLieu(DAO).dll.config
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaoDien(GUI).csproj.AssemblyReference.cache
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaoDien(GUI).csproj.SuggestedBindingRedirects.cache
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.fmChiTietHD.resources
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.fmDangNhap.resources
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.fmForm_App.resources
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.fmHDBanHang.resources
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.fmKhachHang.resources
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.fmKhuyenMai.resources
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.fmNhaCungCap.resources
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.fmNhanVien.resources
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.Properties.Resources.resources
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.fmSanPham.resources
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaoDien(GUI).csproj.GenerateResource.cache
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaoDien(GUI).csproj.CoreCompileInputs.cache
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaoDien(GUI).csproj.CopyComplete
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien(GUI).exe
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien(GUI).pdb
+C:\Users\User Dell 151120\Desktop\QL Ban Hang\QLBanHang\GiaDien(GUI)\bin\Debug\GiaDien(GUI).exe.config
+C:\Users\User Dell 151120\Desktop\QL Ban Hang\QLBanHang\GiaDien(GUI)\bin\Debug\GiaDien(GUI).exe
+C:\Users\User Dell 151120\Desktop\QL Ban Hang\QLBanHang\GiaDien(GUI)\bin\Debug\GiaDien(GUI).pdb
+C:\Users\User Dell 151120\Desktop\QL Ban Hang\QLBanHang\GiaDien(GUI)\bin\Debug\DTO.dll
+C:\Users\User Dell 151120\Desktop\QL Ban Hang\QLBanHang\GiaDien(GUI)\bin\Debug\NghiepVu.dll
+C:\Users\User Dell 151120\Desktop\QL Ban Hang\QLBanHang\GiaDien(GUI)\bin\Debug\DuLieu(DAO).dll
+C:\Users\User Dell 151120\Desktop\QL Ban Hang\QLBanHang\GiaDien(GUI)\bin\Debug\DTO.pdb
+C:\Users\User Dell 151120\Desktop\QL Ban Hang\QLBanHang\GiaDien(GUI)\bin\Debug\NghiepVu.pdb
+C:\Users\User Dell 151120\Desktop\QL Ban Hang\QLBanHang\GiaDien(GUI)\bin\Debug\DuLieu(DAO).pdb
+C:\Users\User Dell 151120\Desktop\QL Ban Hang\QLBanHang\GiaDien(GUI)\bin\Debug\DuLieu(DAO).dll.config
+C:\Users\User Dell 151120\Desktop\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaoDien(GUI).csproj.AssemblyReference.cache
+C:\Users\User Dell 151120\Desktop\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaoDien(GUI).csproj.SuggestedBindingRedirects.cache
+C:\Users\User Dell 151120\Desktop\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.fmChiTietHD.resources
+C:\Users\User Dell 151120\Desktop\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.fmDangNhap.resources
+C:\Users\User Dell 151120\Desktop\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.fmForm_App.resources
+C:\Users\User Dell 151120\Desktop\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.fmHDBanHang.resources
+C:\Users\User Dell 151120\Desktop\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.fmKhachHang.resources
+C:\Users\User Dell 151120\Desktop\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.fmKhuyenMai.resources
+C:\Users\User Dell 151120\Desktop\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.fmNhaCungCap.resources
+C:\Users\User Dell 151120\Desktop\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.fmNhanVien.resources
+C:\Users\User Dell 151120\Desktop\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.Properties.Resources.resources
+C:\Users\User Dell 151120\Desktop\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.fmSanPham.resources
+C:\Users\User Dell 151120\Desktop\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaoDien(GUI).csproj.GenerateResource.cache
+C:\Users\User Dell 151120\Desktop\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaoDien(GUI).csproj.CoreCompileInputs.cache
+C:\Users\User Dell 151120\Desktop\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaoDien(GUI).csproj.CopyComplete
+C:\Users\User Dell 151120\Desktop\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien(GUI).exe
+C:\Users\User Dell 151120\Desktop\QL Ban Hang\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien(GUI).pdb
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang\GiaDien(GUI)\bin\Debug\GiaDien(GUI).exe.config
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang\GiaDien(GUI)\bin\Debug\GiaDien(GUI).exe
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang\GiaDien(GUI)\bin\Debug\GiaDien(GUI).pdb
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang\GiaDien(GUI)\bin\Debug\DTO.dll
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang\GiaDien(GUI)\bin\Debug\NghiepVu.dll
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang\GiaDien(GUI)\bin\Debug\DuLieu(DAO).dll
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang\GiaDien(GUI)\bin\Debug\DTO.pdb
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang\GiaDien(GUI)\bin\Debug\NghiepVu.pdb
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang\GiaDien(GUI)\bin\Debug\DuLieu(DAO).pdb
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang\GiaDien(GUI)\bin\Debug\DuLieu(DAO).dll.config
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang\GiaDien(GUI)\obj\Debug\GiaoDien(GUI).csproj.AssemblyReference.cache
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang\GiaDien(GUI)\obj\Debug\GiaoDien(GUI).csproj.SuggestedBindingRedirects.cache
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.fmChiTietHD.resources
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.fmDangNhap.resources
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.fmForm_App.resources
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.fmHDBanHang.resources
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.fmKhachHang.resources
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.fmKhuyenMai.resources
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.fmNhaCungCap.resources
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.fmNhanVien.resources
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.Properties.Resources.resources
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.fmSanPham.resources
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang\GiaDien(GUI)\obj\Debug\GiaoDien(GUI).csproj.GenerateResource.cache
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang\GiaDien(GUI)\obj\Debug\GiaoDien(GUI).csproj.CoreCompileInputs.cache
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang\GiaDien(GUI)\obj\Debug\GiaoDien(GUI).csproj.CopyComplete
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien(GUI).exe
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang\GiaDien(GUI)\obj\Debug\GiaDien(GUI).pdb
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang_Nhom8\GiaDien(GUI)\bin\Debug\GiaDien(GUI).exe.config
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang_Nhom8\GiaDien(GUI)\bin\Debug\GiaDien(GUI).exe
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang_Nhom8\GiaDien(GUI)\bin\Debug\GiaDien(GUI).pdb
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang_Nhom8\GiaDien(GUI)\bin\Debug\DTO.dll
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang_Nhom8\GiaDien(GUI)\bin\Debug\NghiepVu.dll
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang_Nhom8\GiaDien(GUI)\bin\Debug\DuLieu(DAO).dll
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang_Nhom8\GiaDien(GUI)\bin\Debug\DTO.pdb
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang_Nhom8\GiaDien(GUI)\bin\Debug\NghiepVu.pdb
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang_Nhom8\GiaDien(GUI)\bin\Debug\DuLieu(DAO).pdb
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang_Nhom8\GiaDien(GUI)\bin\Debug\DuLieu(DAO).dll.config
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang_Nhom8\GiaDien(GUI)\obj\Debug\GiaoDien(GUI).csproj.AssemblyReference.cache
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang_Nhom8\GiaDien(GUI)\obj\Debug\GiaoDien(GUI).csproj.SuggestedBindingRedirects.cache
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang_Nhom8\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.fmChiTietHD.resources
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang_Nhom8\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.fmDangNhap.resources
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang_Nhom8\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.fmForm_App.resources
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang_Nhom8\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.fmHDBanHang.resources
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang_Nhom8\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.fmKhachHang.resources
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang_Nhom8\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.fmKhuyenMai.resources
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang_Nhom8\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.fmNhaCungCap.resources
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang_Nhom8\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.fmNhanVien.resources
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang_Nhom8\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.Properties.Resources.resources
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang_Nhom8\GiaDien(GUI)\obj\Debug\GiaDien_GUI_.fmSanPham.resources
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang_Nhom8\GiaDien(GUI)\obj\Debug\GiaoDien(GUI).csproj.GenerateResource.cache
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang_Nhom8\GiaDien(GUI)\obj\Debug\GiaoDien(GUI).csproj.CoreCompileInputs.cache
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang_Nhom8\GiaDien(GUI)\obj\Debug\GiaoDien(GUI).csproj.CopyComplete
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang_Nhom8\GiaDien(GUI)\obj\Debug\GiaDien(GUI).exe
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang_Nhom8\GiaDien(GUI)\obj\Debug\GiaDien(GUI).pdb

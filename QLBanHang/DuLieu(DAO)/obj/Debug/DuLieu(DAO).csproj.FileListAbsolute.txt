@@ -1,0 +1,90 @@
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QLBanHang\DuLieu(DAO)\bin\Debug\DuLieu(DAO).dll.config
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QLBanHang\DuLieu(DAO)\bin\Debug\DuLieu(DAO).dll
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QLBanHang\DuLieu(DAO)\bin\Debug\DuLieu(DAO).pdb
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QLBanHang\DuLieu(DAO)\bin\Debug\DTO.dll
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QLBanHang\DuLieu(DAO)\bin\Debug\DTO.pdb
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QLBanHang\DuLieu(DAO)\obj\Debug\DuLieu(DAO).csproj.AssemblyReference.cache
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QLBanHang\DuLieu(DAO)\obj\Debug\DuLieu(DAO).csproj.CoreCompileInputs.cache
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QLBanHang\DuLieu(DAO)\obj\Debug\DuLieu(DAO).csproj.CopyComplete
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QLBanHang\DuLieu(DAO)\obj\Debug\DuLieu(DAO).dll
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QLBanHang\DuLieu(DAO)\obj\Debug\DuLieu(DAO).pdb
+C:\Users\Sy_Tuan\Desktop\QLBanHang\DuLieu(DAO)\bin\Debug\DuLieu(DAO).dll.config
+C:\Users\Sy_Tuan\Desktop\QLBanHang\DuLieu(DAO)\bin\Debug\DuLieu(DAO).dll
+C:\Users\Sy_Tuan\Desktop\QLBanHang\DuLieu(DAO)\bin\Debug\DuLieu(DAO).pdb
+C:\Users\Sy_Tuan\Desktop\QLBanHang\DuLieu(DAO)\bin\Debug\DTO.dll
+C:\Users\Sy_Tuan\Desktop\QLBanHang\DuLieu(DAO)\bin\Debug\DTO.pdb
+C:\Users\Sy_Tuan\Desktop\QLBanHang\DuLieu(DAO)\obj\Debug\DuLieu(DAO).csproj.AssemblyReference.cache
+C:\Users\Sy_Tuan\Desktop\QLBanHang\DuLieu(DAO)\obj\Debug\DuLieu(DAO).csproj.CoreCompileInputs.cache
+C:\Users\Sy_Tuan\Desktop\QLBanHang\DuLieu(DAO)\obj\Debug\DuLieu(DAO).csproj.CopyComplete
+C:\Users\Sy_Tuan\Desktop\QLBanHang\DuLieu(DAO)\obj\Debug\DuLieu(DAO).dll
+C:\Users\Sy_Tuan\Desktop\QLBanHang\DuLieu(DAO)\obj\Debug\DuLieu(DAO).pdb
+C:\Users\User Dell 151120\Desktop\QLBanHang\DuLieu(DAO)\bin\Debug\DuLieu(DAO).dll.config
+C:\Users\User Dell 151120\Desktop\QLBanHang\DuLieu(DAO)\bin\Debug\DuLieu(DAO).dll
+C:\Users\User Dell 151120\Desktop\QLBanHang\DuLieu(DAO)\bin\Debug\DuLieu(DAO).pdb
+C:\Users\User Dell 151120\Desktop\QLBanHang\DuLieu(DAO)\bin\Debug\DTO.dll
+C:\Users\User Dell 151120\Desktop\QLBanHang\DuLieu(DAO)\bin\Debug\DTO.pdb
+C:\Users\User Dell 151120\Desktop\QLBanHang\DuLieu(DAO)\obj\Debug\DuLieu(DAO).csproj.AssemblyReference.cache
+C:\Users\User Dell 151120\Desktop\QLBanHang\DuLieu(DAO)\obj\Debug\DuLieu(DAO).csproj.CoreCompileInputs.cache
+C:\Users\User Dell 151120\Desktop\QLBanHang\DuLieu(DAO)\obj\Debug\DuLieu(DAO).csproj.CopyComplete
+C:\Users\User Dell 151120\Desktop\QLBanHang\DuLieu(DAO)\obj\Debug\DuLieu(DAO).dll
+C:\Users\User Dell 151120\Desktop\QLBanHang\DuLieu(DAO)\obj\Debug\DuLieu(DAO).pdb
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QLBanHang\DuLieu(DAO)\bin\Debug\DuLieu(DAO).dll.config
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QLBanHang\DuLieu(DAO)\bin\Debug\DuLieu(DAO).dll
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QLBanHang\DuLieu(DAO)\bin\Debug\DuLieu(DAO).pdb
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QLBanHang\DuLieu(DAO)\bin\Debug\DTO.dll
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QLBanHang\DuLieu(DAO)\bin\Debug\DTO.pdb
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QLBanHang\DuLieu(DAO)\obj\Debug\DuLieu(DAO).csproj.AssemblyReference.cache
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QLBanHang\DuLieu(DAO)\obj\Debug\DuLieu(DAO).csproj.CoreCompileInputs.cache
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QLBanHang\DuLieu(DAO)\obj\Debug\DuLieu(DAO).csproj.CopyComplete
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QLBanHang\DuLieu(DAO)\obj\Debug\DuLieu(DAO).dll
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QLBanHang\DuLieu(DAO)\obj\Debug\DuLieu(DAO).pdb
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QLBanHang\DuLieu(DAO)\bin\Debug\DuLieu(DAO).dll.config
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QLBanHang\DuLieu(DAO)\bin\Debug\DuLieu(DAO).dll
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QLBanHang\DuLieu(DAO)\bin\Debug\DuLieu(DAO).pdb
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QLBanHang\DuLieu(DAO)\bin\Debug\DTO.dll
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QLBanHang\DuLieu(DAO)\bin\Debug\DTO.pdb
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QLBanHang\DuLieu(DAO)\obj\Debug\DuLieu(DAO).csproj.AssemblyReference.cache
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QLBanHang\DuLieu(DAO)\obj\Debug\DuLieu(DAO).csproj.CoreCompileInputs.cache
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QLBanHang\DuLieu(DAO)\obj\Debug\DuLieu(DAO).csproj.CopyComplete
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QLBanHang\DuLieu(DAO)\obj\Debug\DuLieu(DAO).dll
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QLBanHang\DuLieu(DAO)\obj\Debug\DuLieu(DAO).pdb
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\DuLieu(DAO)\bin\Debug\DuLieu(DAO).dll.config
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\DuLieu(DAO)\bin\Debug\DuLieu(DAO).dll
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\DuLieu(DAO)\bin\Debug\DuLieu(DAO).pdb
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\DuLieu(DAO)\bin\Debug\DTO.dll
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\DuLieu(DAO)\bin\Debug\DTO.pdb
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\DuLieu(DAO)\obj\Debug\DuLieu(DAO).csproj.AssemblyReference.cache
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\DuLieu(DAO)\obj\Debug\DuLieu(DAO).csproj.CoreCompileInputs.cache
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\DuLieu(DAO)\obj\Debug\DuLieu(DAO).csproj.CopyComplete
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\DuLieu(DAO)\obj\Debug\DuLieu(DAO).dll
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\DuLieu(DAO)\obj\Debug\DuLieu(DAO).pdb
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\DuLieu(DAO)\bin\Debug\DuLieu(DAO).dll.config
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\DuLieu(DAO)\bin\Debug\DuLieu(DAO).dll
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\DuLieu(DAO)\bin\Debug\DuLieu(DAO).pdb
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\DuLieu(DAO)\bin\Debug\DTO.dll
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\DuLieu(DAO)\bin\Debug\DTO.pdb
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\DuLieu(DAO)\obj\Debug\DuLieu(DAO).csproj.AssemblyReference.cache
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\DuLieu(DAO)\obj\Debug\DuLieu(DAO).csproj.CoreCompileInputs.cache
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\DuLieu(DAO)\obj\Debug\DuLieu(DAO).csproj.CopyComplete
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\DuLieu(DAO)\obj\Debug\DuLieu(DAO).dll
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\DuLieu(DAO)\obj\Debug\DuLieu(DAO).pdb
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang\DuLieu(DAO)\bin\Debug\DuLieu(DAO).dll.config
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang\DuLieu(DAO)\bin\Debug\DuLieu(DAO).dll
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang\DuLieu(DAO)\bin\Debug\DuLieu(DAO).pdb
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang\DuLieu(DAO)\bin\Debug\DTO.dll
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang\DuLieu(DAO)\bin\Debug\DTO.pdb
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang\DuLieu(DAO)\obj\Debug\DuLieu(DAO).csproj.AssemblyReference.cache
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang\DuLieu(DAO)\obj\Debug\DuLieu(DAO).csproj.CoreCompileInputs.cache
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang\DuLieu(DAO)\obj\Debug\DuLieu(DAO).csproj.CopyComplete
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang\DuLieu(DAO)\obj\Debug\DuLieu(DAO).dll
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang\DuLieu(DAO)\obj\Debug\DuLieu(DAO).pdb
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang_Nhom8\DuLieu(DAO)\bin\Debug\DuLieu(DAO).dll.config
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang_Nhom8\DuLieu(DAO)\bin\Debug\DuLieu(DAO).dll
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang_Nhom8\DuLieu(DAO)\bin\Debug\DuLieu(DAO).pdb
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang_Nhom8\DuLieu(DAO)\bin\Debug\DTO.dll
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang_Nhom8\DuLieu(DAO)\bin\Debug\DTO.pdb
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang_Nhom8\DuLieu(DAO)\obj\Debug\DuLieu(DAO).csproj.AssemblyReference.cache
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang_Nhom8\DuLieu(DAO)\obj\Debug\DuLieu(DAO).csproj.CoreCompileInputs.cache
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang_Nhom8\DuLieu(DAO)\obj\Debug\DuLieu(DAO).csproj.CopyComplete
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang_Nhom8\DuLieu(DAO)\obj\Debug\DuLieu(DAO).dll
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang_Nhom8\DuLieu(DAO)\obj\Debug\DuLieu(DAO).pdb

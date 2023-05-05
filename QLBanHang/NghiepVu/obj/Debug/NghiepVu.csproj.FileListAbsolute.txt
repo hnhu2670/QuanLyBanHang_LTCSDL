@@ -1,0 +1,24 @@
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QLBanHang\NghiepVu\bin\Debug\NghiepVu.dll
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QLBanHang\NghiepVu\bin\Debug\NghiepVu.pdb
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QLBanHang\NghiepVu\bin\Debug\DTO.dll
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QLBanHang\NghiepVu\bin\Debug\DuLieu(DAO).dll
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QLBanHang\NghiepVu\bin\Debug\DTO.pdb
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QLBanHang\NghiepVu\bin\Debug\DuLieu(DAO).pdb
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QLBanHang\NghiepVu\bin\Debug\DuLieu(DAO).dll.config
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QLBanHang\NghiepVu\obj\Debug\NghiepVu.csproj.AssemblyReference.cache
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QLBanHang\NghiepVu\obj\Debug\NghiepVu.csproj.CoreCompileInputs.cache
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QLBanHang\NghiepVu\obj\Debug\NghiepVu.csproj.CopyComplete
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QLBanHang\NghiepVu\obj\Debug\NghiepVu.dll
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QLBanHang\NghiepVu\obj\Debug\NghiepVu.pdb
+C:\Users\Sy_Tuan\Desktop\QLBanHang\NghiepVu\bin\Debug\NghiepVu.dll
+C:\Users\Sy_Tuan\Desktop\QLBanHang\NghiepVu\bin\Debug\NghiepVu.pdb
+C:\Users\Sy_Tuan\Desktop\QLBanHang\NghiepVu\bin\Debug\DTO.dll
+C:\Users\Sy_Tuan\Desktop\QLBanHang\NghiepVu\bin\Debug\DuLieu(DAO).dll
+C:\Users\Sy_Tuan\Desktop\QLBanHang\NghiepVu\bin\Debug\DTO.pdb
+C:\Users\Sy_Tuan\Desktop\QLBanHang\NghiepVu\bin\Debug\DuLieu(DAO).pdb
+C:\Users\Sy_Tuan\Desktop\QLBanHang\NghiepVu\bin\Debug\DuLieu(DAO).dll.config
+C:\Users\Sy_Tuan\Desktop\QLBanHang\NghiepVu\obj\Debug\NghiepVu.csproj.AssemblyReference.cache
+C:\Users\Sy_Tuan\Desktop\QLBanHang\NghiepVu\obj\Debug\NghiepVu.csproj.CoreCompileInputs.cache
+C:\Users\Sy_Tuan\Desktop\QLBanHang\NghiepVu\obj\Debug\NghiepVu.csproj.CopyComplete
+C:\Users\Sy_Tuan\Desktop\QLBanHang\NghiepVu\obj\Debug\NghiepVu.dll
+C:\Users\Sy_Tuan\Desktop\QLBanHang\NghiepVu\obj\Debug\NghiepVu.pdb

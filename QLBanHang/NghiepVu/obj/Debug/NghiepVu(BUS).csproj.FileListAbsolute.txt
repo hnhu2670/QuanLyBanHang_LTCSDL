@@ -1,0 +1,96 @@
+C:\Users\User Dell 151120\Desktop\QLBanHang\NghiepVu\bin\Debug\NghiepVu.dll
+C:\Users\User Dell 151120\Desktop\QLBanHang\NghiepVu\bin\Debug\NghiepVu.pdb
+C:\Users\User Dell 151120\Desktop\QLBanHang\NghiepVu\bin\Debug\DTO.dll
+C:\Users\User Dell 151120\Desktop\QLBanHang\NghiepVu\bin\Debug\DuLieu(DAO).dll
+C:\Users\User Dell 151120\Desktop\QLBanHang\NghiepVu\bin\Debug\DTO.pdb
+C:\Users\User Dell 151120\Desktop\QLBanHang\NghiepVu\bin\Debug\DuLieu(DAO).pdb
+C:\Users\User Dell 151120\Desktop\QLBanHang\NghiepVu\bin\Debug\DuLieu(DAO).dll.config
+C:\Users\User Dell 151120\Desktop\QLBanHang\NghiepVu\obj\Debug\NghiepVu(BUS).csproj.AssemblyReference.cache
+C:\Users\User Dell 151120\Desktop\QLBanHang\NghiepVu\obj\Debug\NghiepVu(BUS).csproj.CoreCompileInputs.cache
+C:\Users\User Dell 151120\Desktop\QLBanHang\NghiepVu\obj\Debug\NghiepVu(BUS).csproj.CopyComplete
+C:\Users\User Dell 151120\Desktop\QLBanHang\NghiepVu\obj\Debug\NghiepVu.dll
+C:\Users\User Dell 151120\Desktop\QLBanHang\NghiepVu\obj\Debug\NghiepVu.pdb
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QLBanHang\NghiepVu\bin\Debug\NghiepVu.dll
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QLBanHang\NghiepVu\bin\Debug\NghiepVu.pdb
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QLBanHang\NghiepVu\bin\Debug\DTO.dll
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QLBanHang\NghiepVu\bin\Debug\DuLieu(DAO).dll
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QLBanHang\NghiepVu\bin\Debug\DTO.pdb
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QLBanHang\NghiepVu\bin\Debug\DuLieu(DAO).pdb
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QLBanHang\NghiepVu\bin\Debug\DuLieu(DAO).dll.config
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QLBanHang\NghiepVu\obj\Debug\NghiepVu(BUS).csproj.AssemblyReference.cache
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QLBanHang\NghiepVu\obj\Debug\NghiepVu(BUS).csproj.CoreCompileInputs.cache
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QLBanHang\NghiepVu\obj\Debug\NghiepVu(BUS).csproj.CopyComplete
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QLBanHang\NghiepVu\obj\Debug\NghiepVu.dll
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QLBanHang\NghiepVu\obj\Debug\NghiepVu.pdb
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QLBanHang\NghiepVu\bin\Debug\NghiepVu.dll
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QLBanHang\NghiepVu\bin\Debug\NghiepVu.pdb
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QLBanHang\NghiepVu\bin\Debug\DTO.dll
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QLBanHang\NghiepVu\bin\Debug\DuLieu(DAO).dll
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QLBanHang\NghiepVu\bin\Debug\DTO.pdb
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QLBanHang\NghiepVu\bin\Debug\DuLieu(DAO).pdb
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QLBanHang\NghiepVu\bin\Debug\DuLieu(DAO).dll.config
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QLBanHang\NghiepVu\obj\Debug\NghiepVu(BUS).csproj.AssemblyReference.cache
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QLBanHang\NghiepVu\obj\Debug\NghiepVu(BUS).csproj.CoreCompileInputs.cache
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QLBanHang\NghiepVu\obj\Debug\NghiepVu(BUS).csproj.CopyComplete
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QLBanHang\NghiepVu\obj\Debug\NghiepVu.dll
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QLBanHang\NghiepVu\obj\Debug\NghiepVu.pdb
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QLBanHang\NghiepVu\bin\Debug\NghiepVu.dll
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QLBanHang\NghiepVu\bin\Debug\NghiepVu.pdb
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QLBanHang\NghiepVu\bin\Debug\DTO.dll
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QLBanHang\NghiepVu\bin\Debug\DuLieu(DAO).dll
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QLBanHang\NghiepVu\bin\Debug\DTO.pdb
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QLBanHang\NghiepVu\bin\Debug\DuLieu(DAO).pdb
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QLBanHang\NghiepVu\bin\Debug\DuLieu(DAO).dll.config
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QLBanHang\NghiepVu\obj\Debug\NghiepVu(BUS).csproj.AssemblyReference.cache
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QLBanHang\NghiepVu\obj\Debug\NghiepVu(BUS).csproj.CoreCompileInputs.cache
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QLBanHang\NghiepVu\obj\Debug\NghiepVu(BUS).csproj.CopyComplete
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QLBanHang\NghiepVu\obj\Debug\NghiepVu.dll
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QLBanHang\NghiepVu\obj\Debug\NghiepVu.pdb
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\NghiepVu\bin\Debug\NghiepVu.dll
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\NghiepVu\bin\Debug\NghiepVu.pdb
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\NghiepVu\bin\Debug\DTO.dll
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\NghiepVu\bin\Debug\DuLieu(DAO).dll
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\NghiepVu\bin\Debug\DTO.pdb
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\NghiepVu\bin\Debug\DuLieu(DAO).pdb
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\NghiepVu\bin\Debug\DuLieu(DAO).dll.config
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\NghiepVu\obj\Debug\NghiepVu(BUS).csproj.AssemblyReference.cache
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\NghiepVu\obj\Debug\NghiepVu(BUS).csproj.CoreCompileInputs.cache
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\NghiepVu\obj\Debug\NghiepVu(BUS).csproj.CopyComplete
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\NghiepVu\obj\Debug\NghiepVu.dll
+C:\Users\Trinh Bao Duy\OneDrive\Desktop\Lập trình cơ sở dữ liệu\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\NghiepVu\obj\Debug\NghiepVu.pdb
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\NghiepVu\bin\Debug\NghiepVu.dll
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\NghiepVu\bin\Debug\NghiepVu.pdb
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\NghiepVu\bin\Debug\DTO.dll
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\NghiepVu\bin\Debug\DuLieu(DAO).dll
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\NghiepVu\bin\Debug\DTO.pdb
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\NghiepVu\bin\Debug\DuLieu(DAO).pdb
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\NghiepVu\bin\Debug\DuLieu(DAO).dll.config
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\NghiepVu\obj\Debug\NghiepVu(BUS).csproj.AssemblyReference.cache
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\NghiepVu\obj\Debug\NghiepVu(BUS).csproj.CoreCompileInputs.cache
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\NghiepVu\obj\Debug\NghiepVu(BUS).csproj.CopyComplete
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\NghiepVu\obj\Debug\NghiepVu.dll
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QL Ban Hang\QL Ban Hang\QL Ban Hang\QLBanHang\NghiepVu\obj\Debug\NghiepVu.pdb
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang\NghiepVu\bin\Debug\NghiepVu.dll
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang\NghiepVu\bin\Debug\NghiepVu.pdb
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang\NghiepVu\bin\Debug\DTO.dll
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang\NghiepVu\bin\Debug\DuLieu(DAO).dll
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang\NghiepVu\bin\Debug\DTO.pdb
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang\NghiepVu\bin\Debug\DuLieu(DAO).pdb
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang\NghiepVu\bin\Debug\DuLieu(DAO).dll.config
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang\NghiepVu\obj\Debug\NghiepVu(BUS).csproj.AssemblyReference.cache
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang\NghiepVu\obj\Debug\NghiepVu(BUS).csproj.CoreCompileInputs.cache
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang\NghiepVu\obj\Debug\NghiepVu(BUS).csproj.CopyComplete
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang\NghiepVu\obj\Debug\NghiepVu.dll
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang\NghiepVu\obj\Debug\NghiepVu.pdb
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang_Nhom8\NghiepVu\bin\Debug\NghiepVu.dll
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang_Nhom8\NghiepVu\bin\Debug\NghiepVu.pdb
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang_Nhom8\NghiepVu\bin\Debug\DTO.dll
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang_Nhom8\NghiepVu\bin\Debug\DuLieu(DAO).dll
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang_Nhom8\NghiepVu\bin\Debug\DTO.pdb
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang_Nhom8\NghiepVu\bin\Debug\DuLieu(DAO).pdb
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang_Nhom8\NghiepVu\bin\Debug\DuLieu(DAO).dll.config
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang_Nhom8\NghiepVu\obj\Debug\NghiepVu(BUS).csproj.AssemblyReference.cache
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang_Nhom8\NghiepVu\obj\Debug\NghiepVu(BUS).csproj.CoreCompileInputs.cache
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang_Nhom8\NghiepVu\obj\Debug\NghiepVu(BUS).csproj.CopyComplete
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang_Nhom8\NghiepVu\obj\Debug\NghiepVu.dll
+D:\STUDY\NAM 3\HK2\Lap Trinh CSDL\QLBanHang_Nhom8\NghiepVu\obj\Debug\NghiepVu.pdb
